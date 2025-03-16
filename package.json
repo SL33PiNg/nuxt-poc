@@ -10,9 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@hebilicious/vue-query-nuxt": "^0.3.0",
     "@line/liff": "^2.25.1",
-    "@tanstack/vue-query": "^5.68.0",
     "@vueuse/components": "^13.0.0",
     "nuxt": "^3.16.0",
     "vue": "latest",

@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   modules: [
-    "@hebilicious/vue-query-nuxt",
+
     "@vueuse/nuxt",
     "vuetify-nuxt-module"
   ],
