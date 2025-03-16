@@ -6,5 +6,6 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "vuetify-nuxt-module"
   ],
-  devtools: { enabled: true }
+  devtools: { enabled: true },
+  ssr: false
 })
